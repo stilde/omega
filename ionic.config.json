@@ -1,0 +1,8 @@
+{
+  "name": "omega",
+  "app_id": "c19fcc10",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
